@@ -70,7 +70,17 @@ plt.legend()
 plt.title("Customer Segments")
 ```
 ## Output:
-![](.png)
+Data.head()
+
+![](h1.png)
+
+Data.info()
+
+![](h2.png)
+
+Data.isnull().sum()
+
+![](h3.png)
 
 
 ## Result:
