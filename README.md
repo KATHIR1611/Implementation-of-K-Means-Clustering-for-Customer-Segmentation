@@ -84,15 +84,15 @@ Data.isnull().sum()
 
 Elbow method graph
 
-![](h3.png)
+![](h4.png)
 
 KMeans clusters
 
-![](h3.png)
+![](h5.png)
 
 Customer segments graph
 
-![](h3.png)
+![](h7.png)
 
 
 ## Result:
