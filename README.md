@@ -82,6 +82,18 @@ Data.isnull().sum()
 
 ![](h3.png)
 
+Elbow method graph
+
+![](h3.png)
+
+KMeans clusters
+
+![](h3.png)
+
+Customer segments graph
+
+![](h3.png)
+
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
