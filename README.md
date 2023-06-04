@@ -1,5 +1,7 @@
 # Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
+Date : 
+
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
 
@@ -7,7 +9,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
 1.Import pandas and matplot libraries.
 
 2.Import Kmeans algorithm to solve customer segmentation.
